@@ -1,1 +1,1 @@
-# Bullwhip-Simulation-in-a-Multi-Tier-Supply-Chain
+# Bullwhip Simulation in a Multi Tier Supply Chain
