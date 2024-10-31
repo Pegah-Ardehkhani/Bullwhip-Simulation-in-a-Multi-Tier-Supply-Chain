@@ -17,7 +17,7 @@ Factory (Blue Line): Also shows a steep cost increase after week 15, suggesting 
 This plot highlights the bullwhip effect as costs increase disproportionately for upstream actors (Distributor and Factory) due to amplified demand variability.
 
 <p align="center">
-  <img width="600" height="400" src="https://github.com/Pegah-Ardehkhani/Bullwhip-Simulation-in-a-Multi-Tier-Supply-Chain/blob/main/Plots/Costs.PNG">
+  <img width="950" height="550" src="https://github.com/Pegah-Ardehkhani/Bullwhip-Simulation-in-a-Multi-Tier-Supply-Chain/blob/main/Plots/Costs.PNG">
 </p>
 
 **2. Effective Inventory Over Time**
@@ -31,7 +31,7 @@ Factory (Blue Line): Also experiences a sharp inventory dip and recovery, aligni
 This plot reveals how each actor's inventory stability is impacted by demand variability, with upstream actors facing more pronounced fluctuations due to the bullwhip effect.
 
 <p align="center">
-  <img width="600" height="400" src="https://github.com/Pegah-Ardehkhani/Bullwhip-Simulation-in-a-Multi-Tier-Supply-Chain/blob/main/Plots/Effective%20Inventory.PNG">
+  <img width="950" height="550" src="https://github.com/Pegah-Ardehkhani/Bullwhip-Simulation-in-a-Multi-Tier-Supply-Chain/blob/main/Plots/Effective%20Inventory.PNG">
 </p>
 
 **3. Orders Over Time**
@@ -45,5 +45,5 @@ Factory (Blue Line): Reaches the highest peak in order volume, showing how deman
 This plot illustrates the bullwhip effect in action, where small fluctuations in customer demand lead to large order spikes upstream, especially affecting the Factory.
 
 <p align="center">
-  <img width="600" height="400" src="https://github.com/Pegah-Ardehkhani/Bullwhip-Simulation-in-a-Multi-Tier-Supply-Chain/blob/main/Plots/Orders.PNG">
+  <img width="950" height="550" src="https://github.com/Pegah-Ardehkhani/Bullwhip-Simulation-in-a-Multi-Tier-Supply-Chain/blob/main/Plots/Orders.PNG">
 </p>
